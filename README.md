@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on learning a Learning Management System.
+- 🔭 I’m currently working on a Learning Management System.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Ed-Tech software.
 - 🤔 I’m looking for help with writing corporate level code.
